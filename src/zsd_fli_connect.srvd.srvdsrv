@@ -1,0 +1,5 @@
+@EndUserText.label: 'Service Definition Flight Connections'
+define service ZSD_FLI_CONNECT {
+  expose ZI_FLI_CONNECT;
+  expose ZI_FLIGHT_MAN_R;
+}
